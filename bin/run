@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+# shebang - tells file what language to run.
+
+# load all of the assets
+require_relative "../lib/environment"
