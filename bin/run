@@ -3,3 +3,16 @@
 
 # load all of the assets
 require_relative "../lib/environment"
+
+Game.new.begin
+
+=begin
+game flow
+---
+Game begins
+ - Welcome the user
+ - ask player 1 their name
+ - ask player 1 their token
+ - ask player 2 their name
+
+=end
